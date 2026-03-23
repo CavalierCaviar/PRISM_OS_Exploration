@@ -2,7 +2,7 @@
 Task1 for PRISM
 # PocketBase - Open Source Exploration
 
-## 0. Objective of This Exploration
+## Objective of This Exploration
 
 The objective of this task is to understand how real-world software projects are structured and maintained, and to develop the ability to read, interpret, and explain an unfamiliar codebase. This includes identifying architectural patterns, understanding how different components interact, and analyzing how contributors collaborate on the project. The goal is to build a strong high-level mental model of how the system works.
 
